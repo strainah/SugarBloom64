@@ -6,7 +6,7 @@ Eight modes: Gated, Hall, Plate, Reverse, Room, Shimmer, Spring, and Sugar Rever
 
   ## Sugar Reverse
   The reverse engine followed by Grossbeat style glitching effects.
-  In version 1.0 the Sugar effect is random but in later versions the
+  In alpha the Sugar effect is random but in later versions the
   glitching will be more custom allowing for more modulation and
   allow the user more options to create freely. The glitches are
   essentially sidechain chops like a trance gate that stutters
